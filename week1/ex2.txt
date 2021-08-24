@@ -1,0 +1,173 @@
+    1  sudo apt-get install git
+    2  cd ..
+    3  lls
+    4  ls
+    5  cd mnt
+    6  ls
+    7  cd c
+    8  ks
+    9  ls
+   10  cd flutter
+   11  ls
+   12  cd flutter/
+   13  flutter doctor
+   14  sudo apt autoremove git
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd ..
+   19  ls
+   20  cd mnt
+   21  ls
+   22  cd c
+   23  cd Users/
+   24  ls
+   25  cd shico/
+   26  ls
+   27  cd Desktop/
+   28  ls
+   29  cd assignment1_2
+   30  runTests.sh
+   31  ./runTests.sh 
+   32  ./runTests.sh ass1.cpp
+   33  gcc ass1.cpp
+   34  g++ ass1.cpp
+   35  sudo apt install gcc
+   36  apt-get update
+   37  sudo apt-get update
+   38  gcc ass1.cpp
+   39  sudo apt-get install build-essential
+   40  gcc ass1.cpp
+   41  g++ ass1.cpp
+   42  gcc –version
+   43  gcc –v
+   44  man gcc
+   45  sudo gcc ass1.cpp 
+   46  sudo g++ ass1.cpp 
+   47  ./a.out 
+   48  g++ ass1.cpp 
+   49  ./a.out
+   50  g++ ass1.cpp
+   51  ./a.out
+   52  ./runTests.sh 
+   53  cd ..
+   54  ls
+   55  cd mnt/c/Users/shico/
+   56  ls
+   57  cd Desktop
+   58  ls
+   59  cd ..
+   60  cd Desktop/assignment1_2/
+   61  ls
+   62  ./runTests.sh 
+   63  ls
+   64  cd ..
+   65  ls
+   66  cd mnt
+   67  cd d
+   68  ls
+   69  cd ..
+   70  cd d/'d/University work'/
+   71  cd d/'University work'
+   72  ls
+   73  cd BS1_2
+   74  ls
+   75  cd ITP2/
+   76  ls
+   77  cd Week13\ assignment/
+   78  sudo apt-get update
+   79  g++ -o test test.cc -lboost_iostreams -lboost_system -lboost_filesystem
+   80  g++ -o test test.cpp -lboost_iostreams -lboost_system -lboost_filesystem
+   81  g++ -o example-vector example-vector.cc -lboost_iostreams -lboost_system -lboost_filesystem
+   82  sudo apt-get install gnuplot
+   83  g++ -o example-vector example-vector.cc -lboost_iostreams -lboost_system -lboost_filesystem
+   84  ./a.out
+   85  sudo g++ test.cpp
+   86  ./a.out
+   87  plot "dataset.dat"
+   88  gnuplot
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd ..
+   93  ls
+   94  cd mnt
+   95  ls
+   96  cd c
+   97  ls
+   98  cd 'Program Files'
+   99  ls
+  100  cd MSBuild/
+  101  ls
+  102  cd ..
+  103  cd 'Blackmagic Design'/
+  104  ls
+  105  cd 'DaVinci Resolve'/
+  106  ls
+  107  cd ..
+  108  ls
+  109  cd ..
+  110  ls
+  111  cd mnt
+  112  ccd d
+  113  cd d
+  114  cd univer
+  115  ls
+  116  cd 'University work'
+  117  cd BS2_1
+  118  cd OS
+  119  ls
+  120  cd 'OS Assignment Rep'
+  121  ls
+  122  cd OS-Course-Assingments/
+  123  cd Week\ 1/
+  124  man ls
+  125  ls *.gcc | sort -r > ex1.txt
+  126  cd ..
+  127  cd 'Week 1'
+  128  cd ~/usr
+  129  cd ..
+  130  ls
+  131  cd usr
+  132  cd bin
+  133  cd ..
+  134  cd ~
+  135  ls
+  136  cd ..
+  137  ls
+  138  cd ..
+  139  makedir 'OS Assignment
+  140  q
+  141  ls
+  142  makedir 'OS Assignments'
+  143  mkdir 'OS Assignments'
+  144  ls
+  145  cd OS\ Assignments/
+  146  mkdir week1
+  147  cd week1/
+  148  cd ..
+  149  ls
+  150  cd usr
+  151  cd bin
+  152  ls *.gcc | sort -r > ~/'OS Assignments'/week1/ex1.txt
+  153  ls
+  154  sudo ls *.gcc | sort -r > ~/'OS Assignments'/week1/ex1.txt
+  155  ls *.gcc
+  156  ls | egrep '\.gcc$'
+  157  cd ..
+  158  ls
+  159  cd mnt/d/'mnt/d/University work'/
+  160  cd mnt/d/'University work'/BS2_1/OS/'OS Assignment Rep'
+  161  cd OS-Course-Assingments/
+  162  cd Week\ 1/
+  163  ls
+  164  cd ~
+  165  cd ..
+  166  cd usr
+  167  cd bin
+  168  ls *gcc*
+  169  ls *gcc* | sort -r > ~/'OS Assignments'/week1/ex1.txt
+  170  cd ~
+  171  cd OS\ Assignments/
+  172  cd week1/
+  173  history > ex2.txt
