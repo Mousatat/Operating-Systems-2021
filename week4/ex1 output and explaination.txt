@@ -1,0 +1,23 @@
+Output is increasing first we call the first parent(PID = x) parant , we fork him into 2 processes(PID = x& x+1) , calling the next parent(PID = x+2)
+
+Output:
+Hello from parent 60 
+Hello from child 61 
+Hello from parent 62 
+Hello from child 63 
+Hello from parent 64 
+Hello from child 65 
+Hello from parent 66 
+Hello from child 67 
+Hello from parent 68 
+Hello from child 69 
+Hello from parent 70  
+Hello from child 71  
+Hello from parent 72  
+Hello from child 73  
+Hello from parent 74 
+Hello from child 75 
+Hello from parent 76 
+Hello from child 77 
+Hello from parent 78  
+Hello from child 79 
