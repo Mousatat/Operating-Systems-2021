@@ -1,0 +1,1 @@
+out1.txt the output without locking , it can be seen that it only repeats the 2 then continues counting on each other, while out.txt has each script counting speratly 
