@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633462016 source:c:\training c++ codeblocks\ex3\main.c
+	<stdlib.h>
+	<stdio.h>
+
