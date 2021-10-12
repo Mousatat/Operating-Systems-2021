@@ -1,0 +1,2 @@
+Physical adresses are adresses that point to actual points on the memory while virtual adresses are just an abstruction used to give programs the illusion of having their own large memory, virtual adresses are usually more than physical adresses. Virtual addresses are mapped to the
+physical address during run time.

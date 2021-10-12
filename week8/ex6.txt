@@ -1,0 +1,11 @@
+As the machine has 16-bit virual adresses it means addresses range from 0 to 64k, and having 8KB pages means we'll need 8 page entries as shown below.
+
+
+0:0-8k
+1:8k-16k
+2:16k-24k
+3:24k-32k
+4:32k-40k
+5:40k-48k
+6:48k-56k
+7:56k-64k
