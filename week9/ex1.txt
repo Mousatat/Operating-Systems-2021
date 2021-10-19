@@ -1,0 +1,3 @@
+Hit/Miss ratio at 10 : 0.010101
+Hit/Miss ratio at 50 : 0.053741
+Hit/Miss ratio at 100 : 0.102536
