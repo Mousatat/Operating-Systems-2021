@@ -1,0 +1,15 @@
+#After chaning the permissions, everyone has everythinng
+total 4
+-rwxrwxrwx 1 sherif sherif 1 Oct 21 21:07 _ex3.txt
+ 
+#After setting it to 660, makes owner and group have read and write permisssion only and makes others have no permissions at all
+total 4
+-rw-rw---- 1 sherif sherif 1 Oct 21 21:07 _ex3.txt
+ 
+#After setting it to 775, makes owner and group have all permissions while others only have read and excute
+total 4
+-rwxrwxr-x 1 sherif sherif 1 Oct 21 21:07 _ex3.txt
+ 
+#After setting it to 777, gives all permissions to everyone
+total 4
+-rwxrwxrwx 1 sherif sherif 1 Oct 21 21:07 _ex3.txt
