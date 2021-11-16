@@ -1,0 +1,8 @@
+*Recovery: recovery is useful if it can be used to either terminate a process or preempt its resources.
+However, it is not permitted to be used in RT or batch systems.
+
+*Prevention: If requests from processes are granted, this is the optimal technique.
+Furthermore, the difficulty of planning is solvable.
+
+*Avoiding deadlocks is beneficial when fresh requests for resources necessitate dynamic judgments. Banker's algorithm is commonly employed for this strategy.
+This method is suitable for interactive systems.
