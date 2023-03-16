@@ -1,6 +1,6 @@
 # Operating-Systems-2021
 
-This repository for operating System course which include labs and exams from Innopolis university bachelor degree third year Data science Fall semester 2021
+This repository for operating System course which include labs and exams from Innopolis university bachelor degree second year Data science Fall semester 2021
 
 This course covers the following concepts: 
 
